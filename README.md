@@ -3,7 +3,7 @@
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svgDjango" title="dj" **alt="dj" width="40" height="40"/
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="dj" **alt="dj" width="40" height="40"/
 </div>
 - ⚡ Fun fact: I'm like squash :tennis:
 
